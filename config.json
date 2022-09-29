@@ -1,0 +1,7 @@
+{
+    "config":
+        {
+            "arquivos_ori": "{Caminho origen}",
+            "arquivos_conv": "{caminho destino}"
+        }
+}
